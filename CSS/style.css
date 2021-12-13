@@ -6,7 +6,7 @@ td,th, table{
     border-collapse: collapse;
 }
 td,th{
-  /*  padding: 30px; */
+  padding: 30px;
 }
 thead {
     background-color: grey;
